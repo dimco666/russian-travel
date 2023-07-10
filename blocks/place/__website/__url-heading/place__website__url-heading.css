@@ -8,4 +8,5 @@
     letter-spacing: 2px;
     text-align: left;
     color: #aaa;
+    display: grid;
 }
