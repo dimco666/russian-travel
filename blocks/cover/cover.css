@@ -1,0 +1,11 @@
+.cover {
+  margin: 0;
+  background-image: url("../../images/__background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 1184px;
+  height: 740px;
+  margin-left: auto;
+  margin-right: auto;
+}
