@@ -1,7 +1,9 @@
 .header {
   margin: 0;
   min-width: 1184px;
-  max-height: 52px;
+  min-height: 52px;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
+  align-items: flex-end;
+  position: relative;
 }
