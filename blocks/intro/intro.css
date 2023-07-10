@@ -1,7 +1,9 @@
 .intro {
     margin: 0;
+    padding: 0;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 92px;
     width: 984px;
     height: 429px;
     display: flex;

@@ -1,4 +1,6 @@
 .intro__title {
+  margin: 0;
+  margin-bottom: 40px;
   color: #fff;
   text-align: left;
   font-family: Inter;
