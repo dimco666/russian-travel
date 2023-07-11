@@ -8,3 +8,7 @@
   width: 984px;
   height: 660px;
 }
+
+.place:nth-of-type(5) {
+  margin: 0;
+}
