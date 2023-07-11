@@ -10,4 +10,6 @@
     margin-left: 412px;
     margin-right: 412px;
     color: #fff;
+    display: flex;
+    z-index: 2;
 }

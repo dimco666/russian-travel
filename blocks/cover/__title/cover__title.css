@@ -11,4 +11,6 @@
     margin-bottom: 32px;
     margin-right: 312px;
     margin-left: 312px;
+    display: flex;
+    z-index: 2;
 }
