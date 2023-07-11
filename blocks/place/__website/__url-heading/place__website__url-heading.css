@@ -9,4 +9,5 @@
     text-align: left;
     color: #aaa;
     display: grid;
+    justify-self: start;
 }
