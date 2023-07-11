@@ -9,6 +9,6 @@
   color: #fff;
   margin: 0;
   margin-bottom: 32px;
-  width: 720px;
+  max-width: 720px;
   height: 200px;
 }
